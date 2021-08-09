@@ -15,6 +15,8 @@ Check out the globe's prototype and me testing it...
 
 ![IMG_20190718_181747](https://user-images.githubusercontent.com/52897993/128757799-56a09a42-12ac-4493-a179-ffeac4ba92e0.jpg)
 
+![IMG_20190718_183949](https://user-images.githubusercontent.com/52897993/128757815-a14a0f80-a266-4bf9-b52e-6606784227aa.jpg)
+
 
 
 
