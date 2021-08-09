@@ -13,7 +13,9 @@ Adruino Side (Haptics Development): The design of the Arduino project was based 
       
 Check out the globe's prototype and me testing it... 
 
-https://user-images.githubusercontent.com/52897993/128757290-974ee7ea-c5d4-430f-b6dc-104e3e197ecb.jpg
+![IMG_20190718_181747](https://user-images.githubusercontent.com/52897993/128757799-56a09a42-12ac-4493-a179-ffeac4ba92e0.jpg)
+
+
 
 
 
